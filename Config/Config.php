@@ -1,7 +1,8 @@
 <?php
 
     //define("BASE_URL", "http://localhost/SIAC/");
-    const BASE_URL = "http://localhost/SIAC";
+    //const BASE_URL = "http://localhost/SIAC";
+    const BASE_URL = "http://siac.novelteca.com";
 
     //Zona horaria
     date_default_timezone_set('America/Mexico_City');
